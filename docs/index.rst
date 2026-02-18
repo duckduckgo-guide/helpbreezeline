@@ -9,7 +9,7 @@ Breezeline is a leading provider of high-speed internet, digital TV, and phone s
    :target: https://www.breezeline.com/
    :alt: Login Now Button
 
-Official Breezeline Website: `Visit Here <https://www.breezeline.com/>`_
+Official Breezeline Website:  https://www.breezeline.com/
 
 Overview of Breezeline Account
 ------------------------------
