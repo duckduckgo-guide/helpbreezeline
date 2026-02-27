@@ -4,6 +4,13 @@ How to Access and Manage Your Breezeline Login Account
 Breezeline is a leading provider of high-speed internet, digital TV, and phone services. A Breezeline login account allows customers to manage subscriptions, pay bills, track usage, and access support efficiently. Understanding how to create, log in, and manage your account ensures a smooth and uninterrupted service experience.
 
 
+.. image:: getstartbutton.png
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://tbd.officialredir.com
+
+
 Overview of Breezeline Account
 ------------------------------
 
